@@ -40,7 +40,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
 The dataset created by this project is a tidy, subset version of the original.  It includes the averages, by subject (volunteer) and activity of the following features:
 
-The means and standard deviations of:
+The means, mean frequencies and standard deviations of:
 - tBodyAcc-XYZ
 - tGravityAcc-XYZ
 - tBodyAccJerk-XYZ
