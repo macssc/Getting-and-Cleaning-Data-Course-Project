@@ -76,3 +76,5 @@ groups <- group_by(full, activity, subject)
 
 # get the means 
 s <- summarize_all(groups, mean)
+
+print(s)
