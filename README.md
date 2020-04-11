@@ -1,8 +1,7 @@
 # Getting and Cleaning Data Course Project
 
 My implementation of the project is included into a single R source file
-named 'run_analysis.R'.  For simplicity the data set folder was renamed 
-to 'Dataset' but was otherwise unchanged.
+named 'run_analysis.R'.  
 
 The script can be divided into 5 main parts:
 

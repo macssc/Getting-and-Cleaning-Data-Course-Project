@@ -4,7 +4,7 @@ library(dplyr)
 # same result (e.g. merging at the end made more sense in my thought process)
 
 # Paths to files
-datasetPath <- './Dataset/'
+datasetPath <- './UCI HAR Dataset/'
 activityLabelsPath <- file.path(datasetPath, 'activity_labels.txt')
 
 # Load features
